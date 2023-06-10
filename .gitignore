@@ -1,1 +1,6 @@
+*.txt
 logs.txt
+logs2.txt
+sample.py
+test.cpp
+/logs
